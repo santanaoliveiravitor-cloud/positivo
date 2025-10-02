@@ -12,7 +12,7 @@
     flex-direction: row;
     list-style: none;   /* remove os dots */
     color:black;
-    .background-color: blue;
+    .background-color: purple;
 }
 nav{
     display: flex; /* Permite organizar os elementos HTML*/
