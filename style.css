@@ -38,7 +38,7 @@ body{
 }
 .hero {
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5))
-  , url('PORTADA-ORIGENES-SILLONES-DE-BARBERO.webp') no-repeat center center/cover;
+  , url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fbr%2Ffotos%2Faula-de-informatica&psig=AOvVaw2m3z9r5zDbnuL2CVShCxeS&ust=1760010062111000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiIpcbClJADFQAAAAAdAAAAABAE') no-repeat center center/cover;
   text-align: center;
   padding: 6rem 2rem;
   color: #fff;
