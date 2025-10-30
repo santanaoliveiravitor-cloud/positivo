@@ -38,7 +38,7 @@ body{
 }
 .hero {
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5))
- , url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Fsala-com-computadores&psig=AOvVaw2wkbUt7m9oYxnvm6IbFWr3&ust=1761919385851000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDO2MaLzJADFQAAAAAdAAAAABAE')
+ , url('https://cdn-front.freepik.com/revamp/temp/hero/v3-loop-poster.webp?w=746&h=419')
   no-repeat center center/cover;
   text-align: center;
   padding: 6rem 2rem;
