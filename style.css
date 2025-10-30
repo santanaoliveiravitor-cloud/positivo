@@ -80,7 +80,7 @@ body{
 
 /* Links e textos */
 .footer-links a, .footer-contact p, .footer-social a {
-    color: #b0b0b0; /* Texto em cinza suave */
+    color: #b0b0b0; /* Texto em verde suave */
     text-decoration: none;
     line-height: 1.8;
     transition: color 0.3s;
